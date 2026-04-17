@@ -1,6 +1,6 @@
 cask "claude-cat-monitor" do
-  version "0.3.1"
-  sha256 "379a82fc71c6d1de1fb557bb5358bda57369dfe7955c903aca6485e3fe3acf19"
+  version "0.3.2"
+  sha256 "68c8abdd6f6404102e2df9a42405f0ad02109d56c97d59b48e4047c0e4bf7e79"
 
   url "https://github.com/huangken8511429/claude-cat-island/releases/download/v#{version}/Claude.Cat.Monitor_#{version}_aarch64.zip"
   name "Claude Cat Monitor"
